@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🌱 I’m undergraduate student in Chung-Nam univ
-- Language I've tried.. :
+- Language I've tried.. 
   -Java
   -C
   -R
