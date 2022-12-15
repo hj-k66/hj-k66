@@ -1,10 +1,6 @@
 ### Hi there 👋
-- 🌱 I’m undergraduate student in Chung-Nam univ
-- Language I've tried.. :
-  - Java
-  - C
-  - Python
-  - R
+- 😊 I’m undergraduate student in Chung-Nam univ
+- 🌱 I'm interested in BackEnd
 <!--
 **hj-k66/hj-k66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
